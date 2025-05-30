@@ -1,8 +1,7 @@
 streamlit
-langchain
-langchain-community
-langchain-groq
-faiss-cpu
-unstructured
-pdfminer.six
-sentence-transformers
+transformers
+groq
+requests
+pypdf
+PyPDF2
+pandas
